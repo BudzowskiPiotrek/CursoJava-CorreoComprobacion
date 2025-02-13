@@ -1,4 +1,4 @@
-# CursoJava - CorreoComprobacion
+# CursoJava - CorreoComprobacion 
 Crea un programa en Java que valida la estructura de una dirección de correo electrónico utilizando solo métodos básicos deString
 y sin usar métodos personalizados , arrays ni expresiones regulares . El programa debe seguir estas reglas de validación:
 
